@@ -1,4 +1,4 @@
-#include "HashTable.h"
+#include "Hashtable.h"
 #include <vector>
 #include <cstdlib>
 
